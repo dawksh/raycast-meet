@@ -9,8 +9,8 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "meet",
-      "title": "Meet",
+      "name": "create-meet",
+      "title": "Create Meet",
       "subtitle": "Create Google Meet",
       "description": "Creates a new google meet and copies url to your clipboard",
       "mode": "no-view"
